@@ -1,4 +1,4 @@
-![alt text](https://github.com/em-777/eiffel65/blob/63bf36313b8243d4276ae75963a74563c2630e23/screen_desktop.png)
+<img alt="Header" src="screen_desktop.png">
 
 # eiffel65
 
